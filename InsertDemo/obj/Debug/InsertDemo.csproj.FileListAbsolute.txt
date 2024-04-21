@@ -1,0 +1,6 @@
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\InsertDemo\InsertDemo\bin\InsertDemo.dll.config
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\InsertDemo\InsertDemo\bin\InsertDemo.dll
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\InsertDemo\InsertDemo\bin\InsertDemo.pdb
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\InsertDemo\InsertDemo\obj\Debug\InsertDemo.csprojResolveAssemblyReference.cache
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\InsertDemo\InsertDemo\obj\Debug\InsertDemo.dll
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\InsertDemo\InsertDemo\obj\Debug\InsertDemo.pdb
